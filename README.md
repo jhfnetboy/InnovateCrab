@@ -1,3 +1,7 @@
+# OpenCrab
+- Just for fun: create a 24 hours Agent for my personal use: information, decision and action with token saving mode.
+- Forked from OpenFang.
+-------------
 <p align="center">
   <img src="public/assets/openfang-logo.png" width="160" alt="OpenFang Logo" />
 </p>
