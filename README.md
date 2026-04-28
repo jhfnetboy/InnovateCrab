@@ -522,3 +522,8 @@ MIT — use it however you want.
 <p align="center">
   <strong>Built with Rust. Secured with 16 layers. Agents that actually work for you.</strong>
 </p>
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](LICENSE-APACHE).  
+Copyright 2024-present MushroomDAO Contributors. See [NOTICE](./NOTICE) for attribution.
