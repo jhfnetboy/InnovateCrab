@@ -384,7 +384,9 @@ We ship fast and fix fast. The goal is a rock-solid v1.0 by mid-2026.
 
 ## License
 
-MIT — use it however you want.
+This project is licensed under the [Apache License, Version 2.0](LICENSE-APACHE).  
+Copyright 2024-present MushroomDAO Contributors.  
+See [NOTICE](./NOTICE) · [TRADEMARK.md](./TRADEMARK.md) · [LICENSE-zh.md](./LICENSE-zh.md) · [TRADEMARK-zh.md](./TRADEMARK-zh.md) for details.
 
 ---
 
@@ -425,4 +427,5 @@ MIT — use it however you want.
 ## License
 
 This project is licensed under the [Apache License, Version 2.0](LICENSE-APACHE).  
-Copyright 2024-present MushroomDAO Contributors. See [NOTICE](./NOTICE) for attribution.
+Copyright 2024-present MushroomDAO Contributors.  
+See [NOTICE](./NOTICE) · [TRADEMARK.md](./TRADEMARK.md) · [LICENSE-zh.md](./LICENSE-zh.md) · [TRADEMARK-zh.md](./TRADEMARK-zh.md) for details.
